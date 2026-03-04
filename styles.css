@@ -1,9 +1,27 @@
 body {
-  background-color: lightpink;
+  background-color: lightblue
+ 
+  ;
 }
 h1 {
-  color: green;
+  color: teal;
 }
 p {
-  color: white;
+  color: black
+ 
+ 
+  ;
+}
+
+td:hover, th:hover {
+background-color:white;
+}
+
+.p1 {
+  font-family: "monospace", monospace, monospace;
+}
+
+table {
+border-collapse: collapse;
+width: 50%
 }
